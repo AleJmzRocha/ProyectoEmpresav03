@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/nga_a/Documents/Tópicos Avanzados De Programación Verano Julio-Agosto 2017/Proyecto Empresa/JARS/ComponenteDoble/dist/ComponenteDoble.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nga_a/Documents/Tópicos Avanzados De Programación Verano Julio-Agosto 2017/Proyecto Empresa/JARS/ComponenteDoble2/dist/ComponenteDoble2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
